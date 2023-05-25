@@ -1,5 +1,5 @@
 # Context-Clues
-Info
+Info:
 You and your friends were attending a grand dinner party when tragedy struck
 Accusations are running rampant to determine who committed the crime
 You will be building a webpage that will display 100 accusations on the screen
@@ -7,10 +7,10 @@ When an accusation is clicked, an alert will appear that shows the full text of 
 Knowledge of closure and the modulus operator will be useful in this lab
 To force your hand at trying closure, you must not use let/const in this lab. Only use var.
 
-Getting Started
+Getting Started:
 Create an index.html, script.js, and a css file for styling
 
-Objectives
+Objectives:
 Again, DO NOT use let/const in this lab. Only use var, even in loop declarations. This is to force a situation in which closure is required.
 When the page first loads, insert 100 h3 elements onto the page
 The h3 elements should simply say Accusation 1, Accusation 2, Accusation 3, ... Accusation 100
